@@ -1,0 +1,8 @@
+stm32_ub_dac.c:43:6:UB_DAC_Init	16	static
+stm32_ub_dac.c:67:6:UB_DAC_SetDAC1	16	static
+stm32_ub_dac.c:83:6:UB_DAC_SetDAC2	16	static
+stm32_ub_dac.c:99:6:UB_DAC_SetDAC1u2	16	static
+stm32_ub_dac.c:116:6:P_DAC1_InitIO	16	static
+stm32_ub_dac.c:135:6:P_DAC2_InitIO	16	static
+stm32_ub_dac.c:154:6:P_DAC1_InitDAC	24	static
+stm32_ub_dac.c:176:6:P_DAC2_InitDAC	24	static

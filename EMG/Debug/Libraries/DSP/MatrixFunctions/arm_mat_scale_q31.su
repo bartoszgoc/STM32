@@ -1,0 +1,2 @@
+arm_math.h:434:25:clip_q63_to_q31	32	static
+arm_mat_scale_q31.c:63:12:arm_mat_scale_q31	112	static

@@ -1,0 +1,2 @@
+arm_math.h:434:25:clip_q63_to_q31	32	static
+arm_lms_q31.c:69:6:arm_lms_q31	152	static

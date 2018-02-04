@@ -1,0 +1,7 @@
+stm32_ub_uart.c:38:6:UB_Uart_Init	40	static
+stm32_ub_uart.c:110:6:UB_Uart_SendByte	16	static
+stm32_ub_uart.c:120:6:UB_Uart_SendString	16	static
+stm32_ub_uart.c:132:17:UB_Uart_ReceiveString	24	static
+stm32_ub_uart.c:170:6:P_UART_Receive	16	static
+stm32_ub_uart.c:198:6:P_UART_RX_INT	24	static
+stm32_ub_uart.c:215:6:USART1_IRQHandler	16	static

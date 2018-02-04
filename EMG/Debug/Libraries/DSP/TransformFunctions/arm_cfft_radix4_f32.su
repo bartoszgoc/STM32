@@ -1,0 +1,4 @@
+arm_cfft_radix4_f32.c:177:6:arm_cfft_radix4_f32	32	static
+arm_cfft_radix4_f32.c:223:6:arm_radix4_butterfly_f32	120	static
+arm_cfft_radix4_f32.c:660:6:arm_radix4_butterfly_inverse_f32	120	static
+arm_cfft_radix4_f32.c:1177:6:arm_bitreversal_f32	40	static

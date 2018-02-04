@@ -1,0 +1,4 @@
+arm_cfft_radix4_q31.c:66:6:arm_cfft_radix4_q31	16	static
+arm_cfft_radix4_q31.c:139:6:arm_radix4_butterfly_q31	328	static
+arm_cfft_radix4_q31.c:517:6:arm_radix4_butterfly_inverse_q31	328	static
+arm_cfft_radix4_q31.c:848:6:arm_bitreversal_q31	48	static

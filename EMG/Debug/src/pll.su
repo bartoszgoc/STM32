@@ -1,0 +1,3 @@
+pll.c:23:13:flash_latency	24	static
+pll.c:35:13:fpu_enable	4	static
+pll.c:42:6:pll_init	48	static
